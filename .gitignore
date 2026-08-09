@@ -1,0 +1,88 @@
+############################
+# .NET / C# Build Artifacts
+############################
+bin/
+obj/
+out/
+build/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Publish output
+publish/
+*.pubxml
+*.pubxml.user
+
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS IntelliSense / browsing DB
+*.VC.db
+*.VC.opendb
+ipch/
+
+############################
+# Visual Studio Code
+############################
+.vscode/
+*.code-workspace
+
+############################
+# Rider / JetBrains
+############################
+.idea/
+*.sln.iml
+
+############################
+# ASP.NET / Web
+############################
+wwwroot/
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+############################
+# NuGet
+############################
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+############################
+# Entity Framework
+############################
+Migrations/
+
+############################
+# Logs / Cache / Temp
+############################
+*.log
+*.tlog
+*.cache
+*.tmp
+*.temp
+
+############################
+# OS Junk
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Backup Files
+############################
+*~
+*.bak
+*.old
+*.orig
