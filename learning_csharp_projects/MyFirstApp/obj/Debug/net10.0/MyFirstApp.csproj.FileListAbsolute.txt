@@ -1,0 +1,15 @@
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.exe
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.deps.json
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.runtimeconfig.json
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.dll
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.pdb
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfo.cs
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.sourcelink.json
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.dll
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\refint\MyFirstApp.dll
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.pdb
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.genruntimeconfig.cache
+C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\MyFirstApp\obj\Debug\net10.0\ref\MyFirstApp.dll
