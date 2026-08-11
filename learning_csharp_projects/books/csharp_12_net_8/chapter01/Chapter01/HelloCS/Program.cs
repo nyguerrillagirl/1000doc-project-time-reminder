@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+int z;
 Console.WriteLine("Hello, C#!");
 
 string name = typeof(Program).Namespace ?? "None!";
