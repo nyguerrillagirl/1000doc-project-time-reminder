@@ -1,10 +1,33 @@
 ############################
-# .NET / C# Build Artifacts
+# Node.js
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-store/
+dist/
+build/
+.env
+.env.*
+*.tgz
+
+############################
+# Node.js Tools
+############################
+coverage/
+.nyc_output/
+.eslintcache
+.stylelintcache
+
+############################
+# .NET / C#
 ############################
 bin/
 obj/
 out/
-build/
 [Bb]uild/
 [Ll]og/
 [Ll]ogs/
@@ -13,6 +36,16 @@ build/
 publish/
 *.pubxml
 *.pubxml.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Entity Framework
+Migrations/
 
 ############################
 # Visual Studio
@@ -35,34 +68,16 @@ ipch/
 *.code-workspace
 
 ############################
-# Rider / JetBrains
+# JetBrains Rider / IntelliJ
 ############################
 .idea/
 *.sln.iml
 
 ############################
-# ASP.NET / Web
+# OS Junk
 ############################
-wwwroot/
-node_modules/
-dist/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-############################
-# NuGet
-############################
-*.nupkg
-*.snupkg
-packages/
-*.nuget.props
-*.nuget.targets
-
-############################
-# Entity Framework
-############################
-Migrations/
+.DS_Store
+Thumbs.db
 
 ############################
 # Logs / Cache / Temp
@@ -72,12 +87,6 @@ Migrations/
 *.cache
 *.tmp
 *.temp
-
-############################
-# OS Junk
-############################
-.DS_Store
-Thumbs.db
 
 ############################
 # Backup Files

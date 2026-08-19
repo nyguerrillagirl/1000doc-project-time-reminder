@@ -1,0 +1,30 @@
+{
+  "name": "irresistible-modern",
+  "version": "1.0.0",
+  "description": "Updated version of the Irresistible APIs sample app using modern Node.js and Express",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js",
+  "test": "node test.js"
+  },
+  "keywords": [
+    "irresistible",
+    "api",
+    "sample",
+    "app"
+  ],
+  "author": "Kirsten L. Hunter",
+  "contributors" : [
+    "Lorraine Figueroa lorraine.figueroa@brainycode.com"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "got": "^15.1.0",
+    "tape": "^5.10.2"
+  }
+}
