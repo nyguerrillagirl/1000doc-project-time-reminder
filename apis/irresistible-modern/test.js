@@ -40,14 +40,15 @@ test("responds to requests", async t => {
 
     // Assertions
     t.ok(response, "Response object exists");
+    console.log("Response body:", response.body);
     t.equal(response.statusCode, 200, "Status code is 200");
     t.notEqual(
-      response.body.indexOf("<title>Node.js Getting Started on Heroku</title>"),
+      response.body.indexOf("<title>Irresistible APIs"),
       -1,
       "Page contains expected title"
     );
     t.notEqual(
-      response.body.indexOf("Getting Started on Heroku with Node.js"),
+      response.body.indexOf("Create Web APIs That Make"),
       -1,
       "Page contains expected text"
     );
