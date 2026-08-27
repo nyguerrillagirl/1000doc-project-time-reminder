@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "firstarg second-arg third:arg \"fourth arg\""
+    }
+  }
+}
