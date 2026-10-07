@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimeReminder.UI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TimeReminder.UI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
