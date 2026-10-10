@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "WinUI.SimpleSample (Package)": {
+    "SimpleUIApp (Package)": {
       "commandName": "MsixPackage"
     },
-    "WinUI.SimpleSample (Unpackaged)": {
+    "SimpleUIApp (Unpackaged)": {
       "commandName": "Project"
     }
   }
